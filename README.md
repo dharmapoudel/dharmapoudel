@@ -2,7 +2,7 @@
 
 [**One Lyrics**](https://github.com/dharmapoudel/onelyrics)  |[**Bixb Panel**](https://github.com/dharmapoudel/bixb-panel)
 --|--
-<img src="https://raw.githubusercontent.com/dharmapoudel/onelyrics/main/app/src/main/assets/screener_1610512326246.png" width="220" /> <img src="https://raw.githubusercontent.com/dharmapoudel/onelyrics/main/app/src/main/assets/screener_1610512246044.png" width="220" /> | <img src="https://raw.githubusercontent.com/dharmapoudel/bixb-panel/master/app/src/main/assets/screener_1610332561068.png" width="220" /> <img src="https://raw.githubusercontent.com/dharmapoudel/bixb-panel/master/app/src/main/assets/screener_1610332134140.png" width="220" /> 
+<img src="https://raw.githubusercontent.com/dharmapoudel/onelyrics/main/app/src/main/assets/screener_1610512326246.png" width="200" /> <img src="https://raw.githubusercontent.com/dharmapoudel/onelyrics/main/app/src/main/assets/screener_1610512246044.png" width="200" /> | <img src="https://raw.githubusercontent.com/dharmapoudel/bixb-panel/master/app/src/main/assets/screener_1610332561068.png" width="200" /> <img src="https://raw.githubusercontent.com/dharmapoudel/bixb-panel/master/app/src/main/assets/screener_1610332134140.png" width="200" /> 
  
 <!-- **OneLyrics**  
  - <img src="https://play-lh.googleusercontent.com/z-MDaFvDgfcUwf39GvPLANfrOYx2Zx51nmci6Lskkbl6A5E42W2Vec5CmXaK_4HrdVg=w1440-h620" width="200" />
