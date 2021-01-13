@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-#### Currently working on
+##### Hi there 👋 I'm Currently working on
 
   
 
