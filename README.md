@@ -1,7 +1,7 @@
 ##### Hi there 👋 I'm Currently working on
 
 [**One Lyrics**](https://github.com/dharmapoudel/onelyrics)  |[**Bixb Panel**](https://github.com/dharmapoudel/bixb-panel)
---|--
+:--|:--
 <img src="https://raw.githubusercontent.com/dharmapoudel/onelyrics/main/app/src/main/assets/screener_1610512326246.png" width="180" /> <img src="https://raw.githubusercontent.com/dharmapoudel/onelyrics/main/app/src/main/assets/screener_1610512246044.png" width="180" /> | <img src="https://raw.githubusercontent.com/dharmapoudel/bixb-panel/master/app/src/main/assets/screener_1610332561068.png" width="180" /> <img src="https://raw.githubusercontent.com/dharmapoudel/bixb-panel/master/app/src/main/assets/screener_1610332134140.png" width="180" /> 
  
 <!-- **OneLyrics**  
