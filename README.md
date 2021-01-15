@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-My apps on playstore:  [OneLyrics](https://play.google.com/store/apps/details?id=com.lyricslover.onelyrics) | [TidyPanel](https://play.google.com/store/apps/details?id=com.dharmapoudel.tidypanel) |  [SamFix](https://play.google.com/store/apps/details?id=com.dharmapoudel.proapp)  
+PlayStore <img src="https://simpleicons.org/icons/googleplay.svg" width="14" height="14" /> :  [OneLyrics](https://play.google.com/store/apps/details?id=com.lyricslover.onelyrics) | [TidyPanel](https://play.google.com/store/apps/details?id=com.dharmapoudel.tidypanel) |  [SamFix](https://play.google.com/store/apps/details?id=com.dharmapoudel.proapp)  
 
 I'm Currently working on [FunTodo](https://github.com/dharmapoudel/funtodo)  
 [<img src="https://raw.githubusercontent.com/dharmapoudel/funtodo/main/screenshots/screener_1610515142508.png" width="400" />](https://github.com/dharmapoudel/funtodo) [<img src="https://raw.githubusercontent.com/dharmapoudel/funtodo/main/screenshots/screener_1610514899022.png" width="400" />](https://github.com/dharmapoudel/funtodo)
