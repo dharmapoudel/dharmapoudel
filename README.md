@@ -1,8 +1,8 @@
 #### Hi there 👋
 
-**Apps on PlayStore <img src="https://simpleicons.org/icons/googleplay.svg" width="13" height="13" /> :**  [**TidyPanel**](https://play.google.com/store/apps/details?id=com.dharmapoudel.tidypanel) | [**OneLyrics**](https://play.google.com/store/apps/details?id=com.lyricslover.onelyrics) |  [**SamFix**](https://play.google.com/store/apps/details?id=com.dharmapoudel.proapp)
+**Apps on PlayStore <img src="https://simpleicons.org/icons/googleplay.svg" width="13" height="13" /> :**  [**FunTodo Notes**](https://play.google.com/store/apps/details?id=com.crazyapps.crazylist) | [**TidyPanel**](https://play.google.com/store/apps/details?id=com.dharmapoudel.tidypanel) | [**OneLyrics**](https://play.google.com/store/apps/details?id=com.lyricslover.onelyrics) |  [**SamFix**](https://play.google.com/store/apps/details?id=com.dharmapoudel.proapp)
 
-I'm Currently working on [FunTodo](https://github.com/dharmapoudel/funtodo)  
+I'm Currently working on 
 [<img src="https://raw.githubusercontent.com/dharmapoudel/funtodo/main/screenshots/screener_1610515142508.png" width="400" />](https://github.com/dharmapoudel/funtodo) [<img src="https://raw.githubusercontent.com/dharmapoudel/funtodo/main/screenshots/screener_1610514899022.png" width="400" />](https://github.com/dharmapoudel/funtodo)
 
 
