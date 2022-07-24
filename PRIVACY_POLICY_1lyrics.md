@@ -4,7 +4,7 @@
 ###### Effective date: 2018/01/01, Latest update: 2022/07/24
 
 
-**Dharma Poudel** built the TidyPanel app. This APP is provided at a minimal cost paid via play store in-app purchase and is intended for use as is.
+**Dharma Poudel** built the 1lyrics app. This APP is provided at a minimal cost paid via play store in-app purchase and is intended for use as is.
 
 This page is used to inform visitors regarding the developer policies with the collection, use, and disclosure of Personal Information if anyone decided to use the App.
 
@@ -12,7 +12,7 @@ This page is used to inform visitors regarding the developer policies with the c
 This **privacy policy** document is to clearly state and provide information on what, how, and why personal data or information is collected, used and disclosed when this software is utilized, and the choices you have associated with that data.
 
 The objective of this policy document is to provide an open environment between the developer and users of this software by openly stating what information the developer collects or not.
-By utilizing this software, it means you accept all the terms and conditions of the developer peculiar to the TidyPanel software.
+By utilizing this software, it means you accept all the terms and conditions of the developer peculiar to the 1lyrics software.
 
 This policy applies to this software and the developer would not be held responsible for the content or privacy practices on any third party app not operated by the developer to which this software links or that links to this software.
 Therefore it is advisable to read up on the privacy policies of third party services that may be linked to this software.
@@ -21,16 +21,18 @@ Therefore it is advisable to read up on the privacy policies of third party serv
 
 ## Information Collection And Use
 
-**TidyPanel does **NOT** collect or store any data.**
+**1lyrics does **NOT** collect or store any data.**
 
-For utilization of TidyPanel, the software is designed to request the **READ** notification permission on the device on which the software's services is intended.
+For utilization of 1lyrics, the software is designed to request the **READ** notification permission on the device on which the software's services is intended.
 
-This permission has to be enabled so the software can read the notifications and hide them accordingly; the information that may be collected with the enablement of this permission is stored locally on the device, and the developer has no access to that information.
+This permission has to be enabled so the software can read the notification change and show the corresponding lyrics fetching it from internet; the information that may be collected with the enablement of this permission is stored locally on the device, and the developer has no access to that information.
 It can be revoked when it is not needed (this is privy to only devices running Android 6.0 and upward).
+
+The developer does NOT own any copyright to the content displayed on the app, all lyrics and image content images shown in the app are copyrighted to the original owners, 1lyrics app only searches the result and displays, and often stores it locally for caching purpose.
 
 Other capabilities of the software are:
 
-- Ability to connect to internet for billing purpose and **NOT** data collection.
+- Ability to connect to internet for billing purpose and fetch contents displayed in app, **NOT** for data collection.
 - Ability to start the application after device is restarted.
 
 <HR>
@@ -51,13 +53,13 @@ If you are a parent or guardian and you are aware that your child has provided u
 
 This software is intended for general use, and has no restrictions on utilization by children.
 
-TidyPanel **DOES NOT** contain any hazardous, violent, or any other content (e.g. augmented reality) that may require parental supervision.
+1lyrics **DOES NOT** contain any hazardous, violent, or any other content (e.g. augmented reality) that may require parental supervision.
 
 <HR>
 
 ## Links To Other Sites
 
-TidyPanel does not contain links to any other services.
+1lyrics does not contain links to any other services.
 All functionalities of the software are run independently and solely on the device.
 
 <HR>
@@ -71,8 +73,8 @@ Users will be notified of these changes prior to the change. The changes to this
 
 ## Disclaimer   
 
-TidyPanel app is developed to be used for hiding persistent notifications on your device.
-The developer will not be held accountable for how you decide to use this software and will not be liable for any losses and/or damages in connection with the use of the software.
+1lyrics app is developed to be used for displaying lyrics and images for the currently playing media on your device.
+The developer will not be held accountable for how you decide to use this software and it's content and will not be liable for any losses and/or damages in connection with the use of the software.
 
 <HR>
 
