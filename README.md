@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Dharma
+# 👋 Hi 
 
 Check out playstore for a fun list of my side projects. [**FunTodo Notes**](https://play.google.com/store/apps/details?id=com.crazyapps.crazylist) | [**TidyPanel**](https://play.google.com/store/apps/details?id=com.dharmapoudel.tidypanel) | [**OneLyrics**](https://play.google.com/store/apps/details?id=com.lyricslover.onelyrics) |  [**SamFix**](https://play.google.com/store/apps/details?id=com.dharmapoudel.proapp)
 
